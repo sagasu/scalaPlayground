@@ -3,4 +3,10 @@ class Operations{
     (a).+(b)
   }
 
+  def printArray() = {
+    //val cars = Array{"porshe", "fiat", "mustang", "opel"}
+    val cars = List("porshe", "fiat", "mustang", "opel")
+    for(car <- cars)
+      println(car)
+  }
 }

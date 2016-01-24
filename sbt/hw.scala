@@ -2,6 +2,7 @@ object Hi {
   def main(args: Array[String]) = {
     val oper = new Operations
     oper.sumMore(1,2)
+    oper.printArray()
     println("Hi!" + factorial(30) + " " + Apollo.Appl() + " " + addGreetings)
   }
 
