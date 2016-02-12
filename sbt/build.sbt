@@ -5,5 +5,7 @@ lazy val root = (project in file(".")).
     name := "sbt",
     version := "1.0",
     scalaVersion := "2.11.7",
-    libraryDependencies += scalaz
+    libraryDependencies += scalaz,
+    libraryDependencies ++= Seq("org.scalatest" %% "scalatest" % "2.2.6" % "test",
+                                "com.novocode" % "junit-interface" % "0.11" % "test")
   )
