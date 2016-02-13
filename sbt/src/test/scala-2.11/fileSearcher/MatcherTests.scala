@@ -28,4 +28,13 @@ class MatcherTests extends FlatSpec {
     
     assert(matcher.rootLocation == new File(".").getCanonicalPath())
   }
+  
+  "Matcher with subFolder checking matching a root location with two subtree files matching" should
+  "return a list with those file names" in {
+    val searchSubDirectories = true
+    val matcher = new Matcher("txt", new File(".\\testfiles\\").getCanonicalPath(),
+        searchSubDirectories)
+    val results = matcher.execute()
+    assert(results == List("notes.txt", "readme.txt"))
+  }
 }
