@@ -21,4 +21,11 @@ class MatcherTests extends FlatSpec {
     
     assert(resul == List("readme.txt"))
   }
+  
+  "Matcher that is not passed a root file location" should
+  "use current location" in {
+    val matcher = new Matcher("filter")
+    
+    assert(matcher.rootLocation == new File(".").getCanonicalPath())
+  }
 }
