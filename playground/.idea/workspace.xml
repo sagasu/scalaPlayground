@@ -50,11 +50,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FilterPositionInAList.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FilterPositionInAList.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/hackerRankFunctionalProgramming/filterPositionInAList/FilterPositionInAList.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
               <caret line="3" column="103" lean-forward="false" selection-start-line="3" selection-start-column="103" selection-end-line="3" selection-end-column="103" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayOfNElements.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/hackerRankFunctionalProgramming/arrayOfNElements/ArrayOfNElements.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseAList.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/hackerRankFunctionalProgramming/reverseAList/ReverseAList.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumOfOddElements.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/hackerRankFunctionalProgramming/sumOfOddElements/SumOfOddElements.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -106,6 +136,11 @@
         <option value="$PROJECT_DIR$/src/main/scala/hackerRankFunctionalProgramming/listReplication/ListReplication.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/hackerRankFunctionalProgramming/filterArray/FilterArray.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/hackerRankFunctionalProgramming/filterPositionInAList/FilterPositionInAList.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/hackerRankFunctionalProgramming/arrayOfNElements/ArrayOfNElements.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/hackerRankFunctionalProgramming/reverseAList.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/hackerRankFunctionalProgramming/reverseAList/reverseAList.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/hackerRankFunctionalProgramming/reverseAList/ReverseAList.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/hackerRankFunctionalProgramming/sumOfOddElements/SumOfOddElements.scala" />
       </list>
     </option>
   </component>
@@ -171,6 +206,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="hackerRankFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="playground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerRankFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="reverseAList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="playground" type="b2602c69:ProjectViewProjectNode" />
@@ -350,12 +394,12 @@
       <workItem from="1510253477274" duration="3945000" />
       <workItem from="1510279827893" duration="21000" />
       <workItem from="1511349530673" duration="117000" />
-      <workItem from="1511383516943" duration="1886000" />
+      <workItem from="1511383516943" duration="2966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5969000" />
+    <option name="totallyTimeSpent" value="7049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -526,6 +570,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="103" lean-forward="false" selection-start-line="3" selection-start-column="103" selection-end-line="3" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/hackerRankFunctionalProgramming/arrayOfNElements/ArrayOfNElements.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/hackerRankFunctionalProgramming/reverseAList/ReverseAList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/hackerRankFunctionalProgramming/sumOfOddElements/SumOfOddElements.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
